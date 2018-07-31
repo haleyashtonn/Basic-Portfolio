@@ -1,0 +1,30 @@
+h1 {
+    font-family: Courier;
+    font-weight: 36px;
+    color: darkslategray;
+    text-align: end;
+
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategrey;
+    text-align: end;
+    
+}
+
+p.p1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategrey;
+
+}
+
+p.p2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategrey;
+}
+
+p.p3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: lightslategrey;
+}
