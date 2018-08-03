@@ -8,15 +8,14 @@ li {
     text-align: center;
     padding: 20px 85px;
     border: solid;
-    border-color: whitesmoke;opacity:0.6;;
-    background-color:whitesmoke;opacity:0.6;;
+    border-color: whitesmoke;opacity:0.6;
+    background-color:whitesmoke;opacity:0.6;
 
 }
 
 
 li a {
     display: inline;
-    width: 60px;
     color: #798C96;
   
 }
@@ -120,7 +119,7 @@ img {
 .btn:hover{
   background-color: #fff;
   border-color: #6EFFE3;
-  color: #6EFFE3
+  color: #6EFFE3;
    
 }
 
@@ -132,4 +131,5 @@ img {
 	outline: none;
     transition: all .4s ease;
     font-family: 'Josephin Sans', sans-serif;
+    background-color:whitesmoke;opacity:0.6;
 }
