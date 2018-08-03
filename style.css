@@ -2,7 +2,7 @@ html {
     background-image: url(assets/images/8b8816979d0d23ed0b8d654037fa064f.png);
   }
 
-  li {
+li {
     display: inline;
     font-family: 'Josephin Sans', sans-serif;
     text-align: center;
@@ -18,9 +18,9 @@ li a {
     display: inline;
     width: 60px;
     color: #798C96;
-
-   
+  
 }
+
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
