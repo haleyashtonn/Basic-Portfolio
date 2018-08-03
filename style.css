@@ -8,8 +8,8 @@ html {
     text-align: center;
     padding: 20px 85px;
     border: solid;
-    border-color: #798C96;
-    background-color: #798C96;
+    border-color: whitesmoke;opacity:0.6;;
+    background-color:whitesmoke;opacity:0.6;;
 
 }
 
@@ -17,7 +17,7 @@ html {
 li a {
     display: inline;
     width: 60px;
-    color: #eee;
+    color: #798C96;
 
    
 }
@@ -59,9 +59,21 @@ p.p2 {
     color:  #273285;
     padding-right: 70px;
 
-
 }
 
+p.p3 {
+    font-family: 'Josephin Sans', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    color: #798C96;
+}
+
+p.p4 {
+    font-family: 'Josephin Sans', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    color: #798C96;
+}
 
 img {
     display: block;
@@ -70,9 +82,21 @@ img {
     width: 25%;
     height: auto;
     border-radius: 8px;
+    position: relative;
 
 }
 
+
+.footer {
+    font-family: 'Josefin Sans', sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:whitesmoke;opacity:0.6;
+    color: #798C96;
+    text-align: center;
+}
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     font-family: 'Josefin Sans', sans-serif;
